@@ -1,6 +1,6 @@
 {
   "name": "@rmc-digital/test-pkg-1",
-  "version": "1.0.0",
+  "version": "0.1.2-canary.0",
   "description": "",
   "main": "index.js",
   "scripts": {
